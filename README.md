@@ -1,2 +1,1 @@
 # javascriptips
-# javascriptips
